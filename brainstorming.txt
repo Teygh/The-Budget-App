@@ -1,0 +1,9 @@
+- The first step of building the project  will be to have an overall view of how the app UX user interface will look.
+Once we have the UX figured out then we can write the the code
+basically we will know the event-handlers and the overall function that we need
+
+Modules:
+are important aspect of any robust applications architecture.
+keep the units if code for a project both  cleanly separated an organized.
+
+Encapsulate some data into privacy and expose other data publicly.
